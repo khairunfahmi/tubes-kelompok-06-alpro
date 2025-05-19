@@ -8,7 +8,7 @@ Aplikasi ini dirancang untuk membantu traveler mengelola anggaran perjalanan sec
 ✅ Hitung total pengeluaran & sisa anggaran secara otomatis  
 ✅ Cari pengeluaran berdasarkan kategori dengan:
 - Sequential Search
-- Binary Search  
+- Binary Search
 ✅ Urutkan data pengeluaran menggunakan:
 - Selection Sort (kategori)
 - Insertion Sort (jumlah)  
