@@ -4,15 +4,15 @@ Aplikasi ini dirancang untuk membantu traveler mengelola anggaran perjalanan sec
 
 ## Fitur Utama
 
-✅ Tambah, ubah, dan hapus pengeluaran perjalanan  
-✅ Hitung total pengeluaran & sisa anggaran secara otomatis  
-✅ Cari pengeluaran berdasarkan kategori dengan:
+1. Tambah, ubah, dan hapus pengeluaran perjalanan  
+2. Hitung total pengeluaran & sisa anggaran secara otomatis  
+3. Cari pengeluaran berdasarkan kategori dengan:
 - Sequential Search
 - Binary Search
-✅ Urutkan data pengeluaran menggunakan:
+4. Urutkan data pengeluaran menggunakan:
 - Selection Sort (kategori)
 - Insertion Sort (jumlah)  
-✅ Laporan akhir pengeluaran vs anggaran  
+5. Laporan akhir pengeluaran vs anggaran  
 
 ---
 
