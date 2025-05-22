@@ -16,6 +16,12 @@ Aplikasi ini dirancang untuk membantu traveler mengelola anggaran perjalanan sec
 
 ---
 
+## Pemberitahuan Upgrade
+
+Versi terbaru aplikasi ini telah menambahkan fitur untuk **menyimpan dan memuat data pengeluaran dari file**. Pengguna dapat menyimpan data pengeluaran dalam file JSON dan memuatnya kembali ke aplikasi untuk melanjutkan pengelolaan anggaran perjalanan tanpa kehilangan data.
+
+---
+
 ## Struktur File
 
 | File         | Deskripsi                          |
@@ -32,17 +38,4 @@ Aplikasi ini dirancang untuk membantu traveler mengelola anggaran perjalanan sec
 ## Cara Menjalankan
 
 ```bash
-go run main.go data.go search.go sort.go laporan.go
-
-Tentang Project
-Project ini dibuat sebagai bagian dari Tugas Besar Mata Kuliah Pengenalan Pemrograman di Telkom University Purwokerto.
-Tim: Kelompok 06 
-
-Catatan
-
-- Dibuat menggunakan bahasa Go (Golang)
-
-- Fokus pada logika dasar pemrograman, bukan antarmuka GUI
-
-- Sederhana, modular, dan mudah dikembangkan ke depannya
-
+go run main.go data.go search.go sort.go laporan.go file.go
